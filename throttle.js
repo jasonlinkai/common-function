@@ -1,6 +1,4 @@
-
-
-export default function throttle({
+function throttle({
   callback,
   delay,
 }) {
